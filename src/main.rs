@@ -31,4 +31,4 @@ fn main() {
  
  
      println!("{}", String::from_utf8_lossy(&argument2_output.stdout).to_string());
- }
+}
